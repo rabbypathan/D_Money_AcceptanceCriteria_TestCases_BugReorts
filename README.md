@@ -2,7 +2,7 @@
 ## Scenario
 Web URL: https://dmoney-web.vercel.app/
 
-Create acceptance criteria for the below features:
+Create acceptance criteria for the below features: 
 #### User Story/Feature 1: 
 Admin can login by email and password and create agent and customer (email: salman@roadtocareer.net,  password: 1234)
 #### User Story/Feature 2: 
