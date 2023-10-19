@@ -1,5 +1,14 @@
 # D_Money_AcceptanceCriteria_TestCases_Bug_Reports
 
+## D_Money_Acceptance_Criteria
+https://docs.google.com/document/d/13z_t3RN6bO_rw0RxnlqonhcrZydtaeY2cuyb6XsqMwo/edit?usp=sharing
+
+## D_Money_Test_Cases
+https://docs.google.com/spreadsheets/d/1bXkZWhcO8ke_a9rozV0-9wrHdj3BVU1AG427fiYlRiE/edit?usp=sharing
+
+## D_Money_Bug_Reports
+https://docs.google.com/spreadsheets/d/1alZqzXlRK7xDiYAyuy4-oT9UVNKs6APLlCFQg_1wkFU/edit?usp=sharing
+
 ## Scenario
 Web URL: https://dmoney-web.vercel.app/
 
@@ -15,11 +24,4 @@ Customer can login by email and password and send money to another customer. For
 ##### User Story/Feature 5: 
 Agent/Customer can payment to merchant and service fee is 1% and minimum service fee is 5 tk (merchant a/c: 01686606902)
 
-## D_Money_Acceptance_Criteria
-https://docs.google.com/document/d/13z_t3RN6bO_rw0RxnlqonhcrZydtaeY2cuyb6XsqMwo/edit?usp=sharing
 
-## D_Money_Test_Cases
-https://docs.google.com/spreadsheets/d/1bXkZWhcO8ke_a9rozV0-9wrHdj3BVU1AG427fiYlRiE/edit?usp=sharing
-
-## D_Money_Bug_Reports
-https://docs.google.com/spreadsheets/d/1alZqzXlRK7xDiYAyuy4-oT9UVNKs6APLlCFQg_1wkFU/edit?usp=sharing
