@@ -1,4 +1,4 @@
-# D_Money_Acceptance_Criteria
+# D_Money_AcceptanceCriteria_TestCases_Bug_Reports
 ## Scenario
 Web URL: https://dmoney-web.vercel.app/
 
