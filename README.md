@@ -1,12 +1,12 @@
-# D_Money_AcceptanceCriteria_TestCases_Bug_Reports
+# D_Money Acceptance Criteria, Test Cases & Bug Reports
 
-## D_Money_Acceptance_Criteria
+## D_Money Acceptance Criteria
 https://docs.google.com/document/d/13z_t3RN6bO_rw0RxnlqonhcrZydtaeY2cuyb6XsqMwo/edit?usp=sharing
 
-## D_Money_Test_Cases
+## D_Money Test Cases
 https://docs.google.com/spreadsheets/d/1bXkZWhcO8ke_a9rozV0-9wrHdj3BVU1AG427fiYlRiE/edit?usp=sharing
 
-## D_Money_Bug_Reports
+## D_Money Bug Reports
 https://docs.google.com/spreadsheets/d/1alZqzXlRK7xDiYAyuy4-oT9UVNKs6APLlCFQg_1wkFU/edit?usp=sharing
 
 ## Scenario
